@@ -153,7 +153,8 @@ The searchBar(… textDidChange…) function was created to allow all the items 
 
 ## ⚠️Preview of the app
 
-![D02C2944-B2B2-4D53-96B8-BBA2B545774A_1_105_c](https://github.com/guilhermemello07/todoey/assets/72673965/d8185a3a-be00-4919-ae81-ff3484601bae)
+https://github.com/guilhermemello07/todoey/assets/72673965/f5d5aec7-497d-41e5-8eee-ce429c78c62e
+
 
 ## ⚠️Final thoughts
 
